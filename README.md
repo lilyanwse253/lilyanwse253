@@ -6,6 +6,5 @@
 
 ### Verity
 - Verity
-- ![Image Description]([https://example.com]([https://lilyanwse253.github.io/verity-thatmob.gif](https://github.com/lilyanwse253/lilyanwse253.github.io/blob/main/verity-thatmob.gif?raw=true)))
 
 - this bio is definetly very incomplete
