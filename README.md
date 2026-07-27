@@ -6,7 +6,7 @@
 - my current focuses is definetely learning more Javascript prpobably or python
 
 ### Verity
-<img width="352" height="392" alt="verity-thatmob" src="https://github.com/user-attachments/assets/c5c04422-fdf2-4193-bc4d-0e2f8e42ab70" />
+<img width="50" height="200" alt="verity-thatmob" src="https://github.com/user-attachments/assets/c5c04422-fdf2-4193-bc4d-0e2f8e42ab70" />
 
 - this bio is definetly very incomplete
 - also thank you for everyone who followed me even tho there's nothing interesting in my repos.
