@@ -13,3 +13,5 @@
 - also thank you for everyone who followed me even tho there's nothing interesting in my repos.
 
 - maybe later in the school year ill do smth interesting
+- yooo why is roblox getting more coporate...
+- uhhh dream impossible project: build a platform that imports roblox studio games and stuff... idk
